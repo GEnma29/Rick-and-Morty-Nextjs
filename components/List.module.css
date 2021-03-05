@@ -1,0 +1,6 @@
+.List{
+    display: flex;  
+}
+.ListHeader{
+    display: inline;
+}
